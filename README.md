@@ -31,6 +31,10 @@ The automated analysis identified the **90mm Monolithic Design** as the optimal 
 * **Data Science**: Python (Pandas for data cleaning, Matplotlib for plotting).
 * **CAD**: SolidWorks .
 
+## Documentation
+For breakdown of the FEA methodology, loading conditions, and the results, please refer to the following report:
+
+> [** View Full Report (PDF)**](./Validación y Optimización Estructural_ Extensión de Dirección.pdf)
 ---
 
 ### Contact
