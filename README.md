@@ -2,7 +2,7 @@
 ### Formula SAE Steering System Validation
 
 ## Project Overview
-This repository documents the structural validation and optimization of a steering knuckle extension for a Formula SAE-style vehicle[cite: 101, 110]. The project transitions from traditional manual FEA to an **automated data-driven workflow** using Python to process simulation results, enabling rapid design iteration and objective decision-making.
+This repository documents the structural validation and optimization of a steering knuckle extension for a Formula SAE-style vehicle. The project transitions from traditional manual FEA to an **automated data-driven workflow** using Python to process simulation results, enabling rapid design iteration and objective decision-making.
 
 The primary objective was to design a monolithic extension that balances structural safety ($FOS > 2.0$), weight reduction, and manufacturability to recover the functionality of a detached steering arm.
 
