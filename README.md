@@ -27,9 +27,9 @@ The automated analysis identified the **90mm Monolithic Design** as the optimal 
 | **Displacement** | 2.50 mm | 0.13 mm | **94.7% Reduction**  |
 
 ##  Tech Stack
-* **CAE/FEA**: SolidWorks Simulation (CSWA-S Certified).
+* **CAE/FEA**: SolidWorks Simulation .
 * **Data Science**: Python (Pandas for data cleaning, Matplotlib for plotting).
-* **CAD**: SolidWorks (CSWP Certified).
+* **CAD**: SolidWorks .
 
 ---
 
