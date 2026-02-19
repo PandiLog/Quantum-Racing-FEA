@@ -34,7 +34,7 @@ The automated analysis identified the **90mm Monolithic Design** as the optimal 
 ## Documentation
 For breakdown of the FEA methodology, loading conditions, and the results, please refer to the following report:
 
-[** View Full Report (PDF)**](./Validación y Optimización Estructural_ Extensión de Dirección.pdf)
+[**View Full Report (PDF)**](./Validaci%C3%B3n%20y%20Optimizaci%C3%B3n%20Estructural_%20Extensi%C3%B3n%20de%20Direcci%C3%B3n.pdf)
 ---
 
 ### Contact
